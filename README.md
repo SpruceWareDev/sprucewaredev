@@ -4,3 +4,7 @@
 -☕ Minecraft Java Cheat Client (SpruceWare) <br/>
 -💻 Hacking tools in python (Spruce Tools) <br/>
 -🔌 New Onion Africa Website (onion.africa)
+
+<br/>
+[![SruceWareDev](https://github-readme-stats.vercel.app/api?username=sprucewaredev)](https://github.com/anuraghazra/github-readme-stats)
+
