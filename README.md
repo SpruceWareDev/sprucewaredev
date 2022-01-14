@@ -3,6 +3,7 @@
 ## I am currently working on ...
 -☕ Minecraft Java Cheat Client (SpruceWare) <br/>
 -💻 Hacking tools in python (Spruce Tools) <br/>
+-⌨ Programming language based on basic (SpruceScript) <br/>
 -🔌 New Onion Africa Website (onion.africa)
 
 <br/>
