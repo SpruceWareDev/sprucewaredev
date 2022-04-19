@@ -1,7 +1,7 @@
 ### Hi, I'm Spruce and i'm a python and java developer!
 
 ## I am currently working on ...
--☕ Minecraft Java Cheat Client (SpruceWare) <br/>
+-☕ Minecraft Java Cheat Client (Mars Client, CloudSense) <br/>
 -💻 Hacking tools in python (Spruce Tools) <br/>
 -⌨ Programming language based on basic (SpruceScript) <br/>
 -🔌 New Onion Africa Website (onion.africa)
