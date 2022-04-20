@@ -6,6 +6,8 @@
 -⌨ Programming language based on basic (SpruceScript) <br/>
 -🔌 New Onion Africa Website (onion.africa)
 
+-⌨ Currently learning OpenGL in java with LWJGL and making a test project <br/>
+
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sprucewaredev&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
