@@ -1,13 +1,12 @@
-### Hi, I'm Spruce and i'm a java developer making games and game mods!
+### Hi, I'm Spruce and I'm a java developer making games and random projects!
 
 ## I am currently working on ...
--🚂 3D Java game engine using LWJGL and OpenGL (Mercury) <br/>
+-🪐 Space colony management game in java (Into The Abyss) <br/>
+-📔 Learning VisualBasic language for college.
 
-## Projects on hold...
--🎮 Java based adventure game (Abyss) <br/>
+## Notable Projects...
 -☕ Minecraft Java Cheat Client (SpruceWare) <br/>
-
--⌨ Currently learning OpenGL in java with LWJGL and making a 3D game engine (Mercury Engine) <br/>
+-🚂 3D Java game engine using LWJGL and OpenGL (Mercury) <br/>
 
 <br/>
 
